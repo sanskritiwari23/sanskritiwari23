@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanskritiwari23
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML,CSS,Javascript
+- 🌱 I’m currently learning Data Structure and Algorithm
 - 📫 How to reach me @sanskritiwari.2003@gmail.com
 
 <!---
