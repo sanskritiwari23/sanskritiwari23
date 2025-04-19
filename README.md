@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanskritiwari23
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Data Structure and Algorithm
-- 📫 How to reach me @sanskritiwari.2003@gmail.com
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Python and SQL
+- 📫 How to reach me @sanskritiwari.2021@gmail.com
 
 <!---
 sanskritiwari23/sanskritiwari23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
